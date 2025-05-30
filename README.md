@@ -1,6 +1,6 @@
 # StudyNotion Edtech Project
 Link to hosted website
-https://studynotionfrontend-three.vercel.app/
+https://study-notion-akarshyas-projects.vercel.app/
 
 # React & Tailwind CSS Starter Pack
 
